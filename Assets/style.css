@@ -6,7 +6,7 @@
 
 body.formStyle {
     font-size: 16px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Arial', sans-serif;
     background-color: #ECF0F1;
 }
 
@@ -14,21 +14,21 @@ body.formStyle {
     display: flex;
     height: 50px;
     justify-content: space-between;
-    align-items: center;
-    background-color: #2C3E50;
+    align-items: left;
+    background-color: #8a430d;
     padding: 20px;
-    color: #ECF0F1;
+    color: #10bde9;
 }
 
 button {
-    background-color: #18BC9C;
+    background-color: #c6c60c;
     border-radius: 8px;
-    color: #FFFFFF;
+    color: #ee1313;
     cursor: pointer;
     font-size: 1.2em;
     letter-spacing: 0.21px;
     line-height: 16px;
-    max-width: 255px;
+    max-width: 300px;
     padding: 20px 52px;
     text-align: center;
     margin-top: 0.6em;
@@ -36,7 +36,7 @@ button {
 }
 
 button:hover {
-    background-color: #16A085;
+    background-color: #2c095a;
 }
 
 .input-group {
@@ -45,14 +45,14 @@ button:hover {
 }
 
 label {
-    color: #34495E;
+    color: #2d2e45;
 }
 
 input {
     background-color: #FFFFFF;
     border-radius: 3px;
     border: 1px solid #D1D5DA;
-    color: #2C3E50;
+    color: #0b78e5;
     font-size: 1.1em;
     height: 45px;
     line-height: 20px;
@@ -71,14 +71,14 @@ em {
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .card {
     background-color: #FFFFFF;
     border: 1px solid #D1D5DA;
     border-radius: 8px;
-    box-shadow: #2C3E50;
+    box-shadow: #b87d0f;
     margin: 20px auto;
     padding: 20px;
     width: calc(60vw - 40px);
@@ -104,12 +104,12 @@ h1 {
 }
 
 .dark-mode {
-    background-color: #2C3E50; 
+    background-color: #04284b; 
     color: #ECF0F1; 
 }
 
 .dark-mode .navBar {
-    background-color: #FFFFFF; 
+    background-color: #280a52; 
     color: #34495E;
     border: 1px solid #2C3E50; 
 }
@@ -117,20 +117,20 @@ h1 {
 body.blogsStyle {
     position: relative;
     font-size: 16px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ariel', sans-serif;
     background-color: #ECF0F1;
 }
 
 body.formStyle.dark-mode {
     font-size: 16px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ariel', sans-serif;
     background-color: #34495E;
 }
 
 
 body.blogsStyle.dark-mode {
     font-size: 16px;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Ariel', sans-serif;
     background-color: #34495E;
 }
 

@@ -4,7 +4,7 @@ Fourth homework challenge
 
 
 ## Description
-Second homework assignment - Professional Portfolio
+Fourth homework assignment - Professional Portfolio
 
 
 
