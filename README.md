@@ -4,7 +4,7 @@ Fourth homework challenge
 
 
 ## Description
-Fourth homework assignment - Professional Portfolio
+Fourth homework assignment - Personal Blog
 
 
 
@@ -60,9 +60,8 @@ Visit my sites here!
 https://CFeltes.github.io/Personal-Blog-H4/
 https://github.com/CFeltes/Personal-Blog-H4
 
-![See First Page Screenshot](Screenshot-1.jpg)
-![See Secord Page Screenshot](Screenshot-2.jpg)
-![See Third Page Screenshot](Screenshot-3.jpg)
+![See First Page Screenshot](Screenshot 1.jpg)
+![See Secord Page Screenshot](Screenshot 2.jpg)
 
 
 ## Contributing
